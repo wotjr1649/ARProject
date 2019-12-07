@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Jae Seok\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Jae Seok\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_AR_PROJECT.1309002159.00" t="ExcludeRecursive" />
+    <e p="E:\AR_PROJECT" t="IncludeRecursive">
+      <e p="AR_PROJECT.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="AdvancedAudioAnalyzer.cs" t="Include" />
+          <e p="AudioAnalyzer.cs" t="Include" />
+          <e p="AudioVisualizer.cs" t="Include" />
+          <e p="BeatGameController.cs" t="Include" />
+          <e p="Destroyer.cs" t="Include" />
+          <e p="FlowNote.cs" t="Include" />
+          <e p="GunRotation.cs" t="Include" />
+          <e p="GunShooter.cs" t="Include" />
+          <e p="GunWatchPointer.cs" t="Include" />
+          <e p="NoteGenerator.cs" t="Include" />
+          <e p="UI" t="Include">
+            <e p="UIAutoCounter.cs" t="Include" />
+            <e p="UIBpm.cs" t="Include" />
+            <e p="UIBpmAnalyzer.cs" t="Include" />
+            <e p="UIDebugPanel.cs" t="Include" />
+            <e p="UIRootController.cs" t="Include" />
+          </e>
+        </e>
+        <e p="StreamingAssets" t="Include">
+          <e p="Vuforia" t="Include">
+            <e p="MusicAR.xml" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
